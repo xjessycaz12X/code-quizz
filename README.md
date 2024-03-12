@@ -14,7 +14,7 @@ A JavaScript Quiz with multiple choice questions, a timer, and high scores!
 
 ## Screenshots
 
-![Question Screenshot]()
+![Question Screenshot](images/landing.png)
 
 ## Code
 
